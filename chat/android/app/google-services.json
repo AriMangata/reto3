@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224316438179",
+    "project_id": "reto-3-chat-dfd70",
+    "storage_bucket": "reto-3-chat-dfd70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224316438179:android:41ba17d5e7c65227007116",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224316438179-1f3sq9r4flh8hjqpdj5jbhj42spp59sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-9hSS0UkRCSGO278rd9G-EUJPbc_ARg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224316438179-1f3sq9r4flh8hjqpdj5jbhj42spp59sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
